@@ -1,4 +1,4 @@
-- 👋 Hello everyone, my name is Depie.
+Let me share some facts:
 - 🎓 I am a postgraduate student at Athens University of Economics and Business 
 - ♥️ I’m passionate about Machine Learning and Arts.
 - 🐌 I have a pet snail, called Garry.
