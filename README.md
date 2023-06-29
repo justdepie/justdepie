@@ -1,5 +1,5 @@
 - 👋 Hello everyone, my name is Depie.
-- 🎓 I am a postgraduate student at university of Athens University of Economics and Business 
+- 🎓 I am a postgraduate student at Athens University of Economics and Business 
 - 👀 I’m passionate about Machine Learning and Arts.
 - 🐌 I have a pet snail, called Garry.
 
