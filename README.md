@@ -5,7 +5,7 @@ Let me share some facts about myself. I am:
 - 🎓 a postgraduate Data Science student at Athens University of Economics and Business.
 - 👩‍🎓 a graduate of the department of Statistics and Actuarial Science, University of Piraeus.
 - 💗 passionate about Machine Learning and Arts.
-- 👄 a language enthusiast. 
+- 👄 a language & history enthusiast. 
 - 🔍 just a curious person seeking new knowledge 
 
 <!---
