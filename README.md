@@ -1,9 +1,7 @@
 Let me share some facts about myself. I am:
 
 - 👶 24 years old.
-- 📊 a Junior Data Analyst
-- 🎓 a postgraduate Data Science student at Athens University of Economics and Business.
-- 👩‍🎓 a graduate of the department of Statistics and Actuarial Science, University of Piraeus.
+- 👩‍💻 a Junior Data Scientist 
 - 💗 passionate about Machine Learning and Arts.
 - 👄 a language & history enthusiast. 
 - 🔍 just a curious person seeking new knowledge 
