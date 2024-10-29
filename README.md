@@ -1,8 +1,8 @@
 Let me share some facts about myself. I am:
 
-- 👶 24 years old and I live in Greece.
-- 👩‍💻 a Junior Data Scientist 
-- 💗 passionate about Machine Learning and Arts.
+- 👶 25 years old and I live in Greece.
+- 👩‍💻 a Junior Data Scientist/Analyst 
+- 💗 passionate about anything Data and Arts.
 - 👄 a Language & History enthusiast. 
 - 🔍 just a curious person seeking new knowledge 
 
