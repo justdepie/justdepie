@@ -1,3 +1,5 @@
+Hello everybody! My name is Depie and I consider myself to be a cool nerd. I hope that you'll find something helpful here 😁
+
 Let me share some facts about myself. I am:
 
 - 👶 25 years old and I live in Greece.
