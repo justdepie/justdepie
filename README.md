@@ -2,7 +2,7 @@ Hello everybody! My name is Depie and I consider myself to be a cool nerd. I hop
 
 Let me share some facts about myself. I am:
 
-- 👶 25 years old and I live in Greece.
+- 👶 26 years old and I live in Greece.
 - 👩‍💻 a Junior Data Scientist/Analyst 
 - 💗 passionate about anything Data and Arts.
 - 👄 a Language & History enthusiast. 
